@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 
-from PIL import Image
-import sys
 import deftree
 import os
-import re
+import sys
 import glob
 
 def scale_vec(el, factor):
