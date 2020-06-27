@@ -26,5 +26,5 @@ python resize_gui.py <path_to_project_root> <amount_to_scale>
 ```
 
 This will look through all .gui files and scale all measurements (position, size, slice9)
-scale them by `<amount_to_scale>`. Use this after you changed your project's design 
+by `<amount_to_scale>`. Use this after you changed your project's design 
 resolution and after you re-exported all the assets at the new resolution.
